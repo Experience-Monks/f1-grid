@@ -1,0 +1,32 @@
+{
+  "name": "f1-grid",
+  "version": "1.0.0",
+  "description": "This module will create states and transitions for a grid that will animate",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Mikko Haapoja",
+    "email": "me@mikkoh.com",
+    "url": "https://github.com/mikkoh"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "f1": "^5.1.0",
+    "f1-dom": "^3.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "f1,animation,ui,grid,slide"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikkoh/f1-grid.git"
+  },
+  "homepage": "https://github.com/mikkoh/f1-grid",
+  "bugs": {
+    "url": "https://github.com/mikkoh/f1-grid/issues"
+  }
+}
